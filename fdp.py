@@ -40,45 +40,4 @@ sns.barplot(x = dataset['parental level of education'], y = dataset['writing sco
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#
